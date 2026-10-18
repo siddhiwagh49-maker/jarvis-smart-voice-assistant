@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+psutil
+pyperclip
+PyAutoGUI
+wikipedia
+customtkinter
+PyAudio
+edge-tts
+pywin32
